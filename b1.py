@@ -1,10 +1,9 @@
-# 1. Phân tích lỗi
+# Phân tích lỗi
 # - Chương trình không crash vì đúng cú pháp Python.
 # - Lỗi logic xảy ra ở phần xuất kết quả (`print`): Gọi sai tên biến hiển thị tương ứng với các nhãn thông tin bệnh nhân.
 
-# 2. Cách khắc phục
+# khắc phục
 # - Đưa các biến `name_patient`, `age`, `symptom` về đúng vị trí in ra màn hình.
-# - Loại bỏ các dấu chấm phẩy `;` thừa ở cuối câu lệnh để chuẩn cú pháp Python.
 
 print(' --- HỆ THỐNG TIẾP NHẬN BỆNH NHÂN --- ')
 
